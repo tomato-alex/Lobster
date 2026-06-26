@@ -105,6 +105,9 @@ node build.js -o firefox # For Firefox
 
 -   [ ] v1.7 Tab Overview similar to Chrome or Firefox to allow selection of tabs or groups for partial export
 -   [ ] v2 Tab Manager for managing tabs (move tabs, etc)
+-   [ ] Add shortcuts for moving tab into new window or creating split view
+-   [ ] handle split view tabs
+-   [ ] open tab in another browser (idk if possible)
 
 ### 📦 Packaging
 
